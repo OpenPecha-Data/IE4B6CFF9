@@ -1,15 +1,16 @@
-id: opecha:P000446
+id: P000446
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS18350
   title: གསུང་འབུམ། བློ་བཟང་བསམ་གཏན།
-  volume:
+  author: ''
+  volumes:
     695e3b32d31d43a7b1611e271040c1c1:
       image_group_id: I8LS18362
       title: Volume 1 of gsung 'bum/ blo bzang bsam gtan/
       volume_number: 1
       total_pages: 1776
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གསུང་འབུམ། བློ་བཟང་བསམ་གཏན།
   author: ''
